@@ -1,4 +1,5 @@
 {% include navigation.html %}
+
 #### 5.1-5.2 notes questions
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 <br/>
