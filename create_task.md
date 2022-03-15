@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ### goal: to create page that allows students to find GPA for the trimester
 #### Requirements: one list, an input, an algorithm, one procedure, instructions for output, and calls to your student-developed procedure.
 ### Brainstorm
