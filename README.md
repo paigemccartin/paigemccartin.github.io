@@ -13,6 +13,6 @@
   </tr>
   <tr>
   <td>Week 0: Plans, Team, Jobs</td>
-  <td> <a href="https://github.com/christinlee367/womenInSTEMandDavid/issues/5">Review Ticket 1</a></td>
+  <td> <a href="https://github.com/SlimeyTurtles/jinjaturtles/issues/9">Review Ticket 1</a></td>
   </tr>
   </table>
