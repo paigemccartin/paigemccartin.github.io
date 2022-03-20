@@ -12,7 +12,7 @@
   </tr>
   <tr>
   <td>Week 1: Lists and Loops</td>
-  <td> <a href="https://github.com/SlimeyTurtles/jinjaturtles/issues/9">Review Ticket 2</a></td>
+  <td> <a href="https://github.com/SlimeyTurtles/jinjaturtles/issues/11">Review Ticket 2</a></td>
   </tr>
   </table>
 
