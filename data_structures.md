@@ -1,6 +1,15 @@
 {% include navigation.html %}
 
 ### Mini Labs
+#### Week 0
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@PaigeMcCartin/paigemccartingithubio-1?lite=true#main.py"></iframe>
+</div>
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@PaigeMcCartin/paigemccartingithubio-1?lite=true#main.py"></iframe>
+</div>
+
+#### Week 0
 [Replit animation](https://replit.com/@PaigeMcCartin/menu-challenge#main.py)
 [Replit menu](https://replit.com/@PaigeMcCartin/menulab#main.py)
 
