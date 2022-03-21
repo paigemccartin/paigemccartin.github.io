@@ -9,6 +9,7 @@
     <iframe height="1000px" width="700px" src="https://replit.com/@PaigeMcCartin/paigemccartingithubio-1?lite=true#main.py"></iframe>
 </div>
 ##### Fibonacci
+![Screen Shot 2022-03-21 at 11 34 29 AM](https://user-images.githubusercontent.com/89223526/159340995-d5734740-6bdc-494c-96c3-09428bd03248.png)
 
 <div class="row justify-content-center" style="margin: 2%;">
     <iframe height="1000px" width="700px" src="https://replit.com/@PaigeMcCartin/WindyEagerButtons?lite=true#main.py"></iframe>
