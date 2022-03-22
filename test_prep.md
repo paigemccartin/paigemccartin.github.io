@@ -1,5 +1,16 @@
 {% include navigation.html %}
 
+
+
+### 5.3-5.4 notes questions
+5.3 Racist HP computer
+
+The owner thinks that the computer intentionally did not read his face because of the color of his skin. I do not think that it was intentional bias because HP has no reason to do this. I think this happened because there weren’t enough people working on the project. The group working on it could all of been white which would lead to an unintentional bias. I think it could be harmful to something to not work on you for a reason you can’t help. Although that wasn’t the goal it is still hurtful. It should be corrected because it is important to include everyone. Next time to produce better outcomes HP can use crowdsourcing to figure out the problem before putting the product out into the world. 
+
+5.4
+
+A type of crowdsourcing could be in our environment could be asking for feedback on a website. Although there is a chance that this could be biased there are still some ways that this relates to crowdsourcing. Del Norte crowdsourcing would be biased to Del Norte students. Although there will be more diversity because not every student is the same there is still a large bias due to the fact that they all go to the same school. This can be seen in a STATs class, they go to random different classes and ask students to complete a survey with classes. This eliminates the bias of picking the people who are taking your survey but still involves bias with the school. For my final project, I can have different students to look at our site and give input to make it better. We could also publish it online to get a bigger group of people to review the website. 
+
 ### 5.1-5.2 notes questions
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 <br>
@@ -20,12 +31,3 @@ Something at Del Norte one can do is when you are in a classroom and see that an
 5. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 <br>
 There is a lot of red tape blocking digital empowerment. Not every school and household are able to afford digital devices. This creates a huge divide between communities that have access and those that do not. At Del Norte, the school blocks a lot of websites that could potentially have educational services to them. This blocks digital empowerment because it doesn’t allow students to certain websites that could have furthered their education. 
-
-### 5.3-5.4 notes questions
-5.3 Racist HP computer
-
-The owner thinks that the computer intentionally did not read his face because of the color of his skin. I do not think that it was intentional bias because HP has no reason to do this. I think this happened because there weren’t enough people working on the project. The group working on it could all of been white which would lead to an unintentional bias. I think it could be harmful to something to not work on you for a reason you can’t help. Although that wasn’t the goal it is still hurtful. It should be corrected because it is important to include everyone. Next time to produce better outcomes HP can use crowdsourcing to figure out the problem before putting the product out into the world. 
-
-5.4
-
-A type of crowdsourcing could be in our environment could be asking for feedback on a website. Although there is a chance that this could be biased there are still some ways that this relates to crowdsourcing. Del Norte crowdsourcing would be biased to Del Norte students. Although there will be more diversity because not every student is the same there is still a large bias due to the fact that they all go to the same school. This can be seen in a STATs class, they go to random different classes and ask students to complete a survey with classes. This eliminates the bias of picking the people who are taking your survey but still involves bias with the school. For my final project, I can have different students to look at our site and give input to make it better. We could also publish it online to get a bigger group of people to review the website. 
