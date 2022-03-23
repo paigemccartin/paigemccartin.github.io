@@ -5,7 +5,7 @@
 - Software needs a license
 - Opensource -> unprotected 
 - Closedsorce -> protected
-- - Creative commons means free and available
+- Creative commons means free and available
 2. Make a license for your personal and Team project. Document license you picked and why.
 GNU GPLv3 license because it is free for everybody. You wouldn’t have to worry about “stealing” patents. 
 
