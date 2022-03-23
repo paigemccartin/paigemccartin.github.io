@@ -1,27 +1,27 @@
 {% include navigation.html %}
 ### 5.5-5.6 notes questions
  5.5
-#### 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
 - Software needs a license
 - Opensource -> unprotected 
 - Closedsorce -> protected
 - - Creative commons means free and available
-#### 2. Make a license for your personal and Team project. Document license you picked and why.
+2. Make a license for your personal and Team project. Document license you picked and why.
 GNU GPLv3 license because it is free for everybody. You wouldn’t have to worry about “stealing” patents. 
 
 5.6 notes
 
-#### 1. Describe PII you have seen on project in CompSci Principles.
+1. Describe PII you have seen on project in CompSci Principles.
 PII is information about a person that can be used against you. For the about me pages we had to add in information about ourselves. Everyone put in different information but it was a little summary about us.
-#### 2. What are your feelings about PII and your exposure?
+2. What are your feelings about PII and your exposure?
 It is important to know what information is out there and how that information can be used against you. I feel like social media is a big part of how I am exposed. Social media has everything from my name, where I was born, what school I go to, and my birthday. 
-#### 3. Describe good and bad passwords? What is another step that is used to assist in authentication?
+3. Describe good and bad passwords? What is another step that is used to assist in authentication?
 Bad passwords are ones that are named after pets, dogs, or sports. Basically, anything that could be found on the internet. Good passwords are ones that are randomized and don't have patterns or anything. Two-step authentication is a good assist. It causes the user to have to confirm on a separate device to allow the first device to proceed. 
-#### 4. Try to describe Symmetric and Asymmetric encryption.
+4. Try to describe Symmetric and Asymmetric encryption.
 Asymmetric encryption is public where as symmetric encryption is more individual. They both can encrypt and decrypt different things like codes or texts. 
 #### 5.Provide an example of encryption we used in deployment.
 When someone deploys at their house their IP address is linked to it. A person can go in and search for where that person is. 
-#### 6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
 Phishing for information using what is on the internet. Someone can use a person's social media to get information about a person, This can be used to find out a lot about people, where they live, what school they go to, who their friends are. This is a perfect way for a stalker to get information. 
 
 
