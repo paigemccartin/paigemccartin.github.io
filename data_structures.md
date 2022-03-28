@@ -2,14 +2,14 @@
 
 ### Mini Labs
 #### Week 2
-### Hack 1 (Organize Files)
+##### Hack 1 (Organize Files)
 ![Screen Shot 2022-03-27 at 9 45 57 PM](https://user-images.githubusercontent.com/89223526/160328364-27f3acfd-b35c-4933-a60b-1004dd5bdc8c.png)
 
-### Factorial
+##### Factorial
 <div class="row justify-content-center" style="margin: 2%;">
     <iframe height="1000px" width="700px" src="https://replit.com/@PaigeMcCartin/Factorial-function-using-classes-providing-implementation-o?lite=true#main.py"></iframe>
 </div>
-### Math
+##### Math
 <div class="row justify-content-center" style="margin: 2%;">
     <iframe height="1000px" width="700px" src="https://replit.com/@PaigeMcCartin/math?lite=true#main.py"></iframe>
 </div>
