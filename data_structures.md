@@ -7,7 +7,9 @@
     <iframe height="1000px" width="700px" src="https://replit.com/@PaigeMcCartin/Factorial-function-using-classes-providing-implementation-o?lite=true#main.py"></iframe>
 </div>
 #### Math
-
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@PaigeMcCartin/math?lite=true#main.py"></iframe>
+</div>
 #### Week 1
 ##### Lists
 ![Screen Shot 2022-03-21 at 11 12 23 AM](https://user-images.githubusercontent.com/89223526/159337653-ffa9a361-ee31-4a0d-aa58-6f5dfc16b0cb.png)
