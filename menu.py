@@ -3,7 +3,9 @@
 # each import enables us to use logic that has been abstracted to other files and folders
 
 import menu2
-import recursion
+from week0 import animation
+from week1 import recursion, lists
+from week2 import factorial, math
 
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
