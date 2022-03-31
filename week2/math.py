@@ -6,9 +6,4 @@ def findFactors(number):
             print("{0}".format(value), end=" ")
     print()
 
-def factors():
-    print("hello from factors")
-    num = int(input("Enter any Number to find its factors: "))
-    findFactors(num)
-
-print(findFactors(100))
+findFactors(100)

@@ -1,10 +1,12 @@
+#notes: need to reconfigure all branch options
+
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
 
 import menu2
 from week0 import animation
-from week1 import recursion, lists
+from week1 import fibonacci, lists
 from week2 import factorial, math
 
 # Main list of [Prompts, Actions]
@@ -14,7 +16,7 @@ from week2 import factorial, math
 main_menu = [
     ["Matrices", menu2.swap],
     ["Swap", menu2.swap],
-    ["Animation", recursion.recursive_loop],
+    ["Animation", lists.recursive_loop],
 ]
 
 # Submenu list of [Prompt, Action]

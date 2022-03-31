@@ -10,4 +10,3 @@ def swap2(a, b):
         a = b
         b = temp
         return a, b
-

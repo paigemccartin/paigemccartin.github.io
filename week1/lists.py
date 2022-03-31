@@ -69,11 +69,11 @@ def while_loop(n):
 
 
 def tester():
-    print("For loop")
+    print("For loop: ")
     for_loop()
-    print("While loop")
+    print("While loop: ")
     while_loop(0)  # requires initial index to start while
-    print("Recursive loop")
+    print("Recursive loop: ")
     recursive_loop(0)  # requires initial index to start recursion
 
 if __name__ == "__main__":
