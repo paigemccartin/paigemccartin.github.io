@@ -4,8 +4,7 @@
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
 
-import menu2
-from week0 import animation
+from week0 import animation, swap
 from week1 import fibonacci, lists
 from week2 import factorial, math
 
