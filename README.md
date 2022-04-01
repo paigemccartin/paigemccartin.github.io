@@ -2,7 +2,7 @@
 
 ## Welcome to GitHub Pages
 
-
+<a href="https://www.youtube.com/playlist?list=PLDu8TE8X-vhlBi2dnA9ybgqC0xAxm7pCH">Link to Youtube Playlist</a></td>
 
 ### Plans for the week
 <table>
