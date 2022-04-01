@@ -1,5 +1,12 @@
 {% include navigation.html %}
 
+
+### Algorithmic final
+#### Raplit 
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@PaigeMcCartin/paigemccartingithubio-1?lite=true#main.py"></iframe>
+</div>
+
 ### Mini Labs
 #### Week 2
 ##### Hack 1 (Organize Files)
