@@ -1,4 +1,11 @@
 {% include navigation.html %}
+### AP TEST PREP 
+When: May 9th AP EXAM
+- review college board videos
+- go over notes from tri 1 and tri 2
+- research online, take any practice tests
+
+
 ### 5.5-5.6 notes questions
  5.5
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
