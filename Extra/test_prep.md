@@ -8,7 +8,9 @@ When: May 9th AP EXAM
 - review college board videos
 - go over notes from tri 1 and tri 2
 - research online, take any practice tests
-
+Create Task
+- Complete create task
+- Make video to submit
 
 ### 5.5-5.6 notes questions
  5.5
