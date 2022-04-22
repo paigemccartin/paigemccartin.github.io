@@ -1,7 +1,7 @@
 {% include navigation.html %}
 ### Corrections 
 
- Finals-Quiz2
+ Finals-Quiz2 (Score: 44/50)
 <table>
   <tr>
   <th>Question Number</th>
@@ -47,7 +47,7 @@
   </tr>
   </table>
   
- Finals-Quiz1
+ Finals-Quiz1 (Score: 41/50)
 <table>
   <tr>
   <th>Question Number</th>
