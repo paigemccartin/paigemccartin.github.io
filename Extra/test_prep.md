@@ -2,6 +2,132 @@
 ### Corrections 
 | Question | Wrong | Correct | Reasoning |
 -------------------------------------------
+<table>
+  <tr>
+  <th>Question Number</th>
+  <th>Wrong</th>
+  <th>Correct</th>
+  <th>Reasoning</th>
+  </tr>
+  <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
+ <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
+ <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
+ <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
+ <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
+ <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
+ <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
+ <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
+ <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  </tr>
+  </table>
+  
+  
+<table>
+  <tr>
+  <th>Question Number</th>
+  <th>Wrong</th>
+  <th>Correct</th>
+  <th>Reasoning</th>
+  </tr>
+  <tr>
+  <td> 1 </td>
+  <td> D </td>
+  <td> B </td>
+  <td> I read the problem wrong and thought that it meant most effective. </td>
+  </tr>
+ <tr>
+  <td> 13 </td>
+  <td> B </td>
+  <td> C </td>
+  <td> The data mentions nothing about the weather so there is no way the data can relate to it.  </td>
+  </tr>
+ <tr>
+  <td> 18 </td>
+  <td> D </td>
+  <td> B </td>
+  <td> Fault-tolerent meant when an error occurs there is a backup plan. </td>
+  </tr>
+ <tr>
+  <td> 23 </td>
+  <td> D </td>
+  <td> A </td>
+  <td> Cookies can be used to track and collect user information. </td>
+  </tr>
+ <tr>
+  <td> 24 </td>
+  <td> B </td>
+  <td> A </td>
+  <td> Packet of metadata containing information are transported over the internet. </td>
+  </tr>
+ <tr>
+  <td> 29 </td>
+  <td> A </td>
+  <td> C </td>
+  <td> Although that list works that is not enough to for a test case. </td>
+  </tr>
+ <tr>
+  <td> 32 </td>
+  <td> B </td>
+  <td> C </td>
+  <td> The count shouldn't be within the IF statement. So that is why you would switch it out of the function. </td>
+  </tr>
+ <tr>
+  <td> 44 </td>
+  <td> B </td>
+  <td> A </td>
+  <td> I read the question wrong and thought it said most likely to indicate a phishing attack.</td>
+  </tr>
+ <tr>
+  <td> 49 </td>
+  <td> C </td>
+  <td> D </td>
+  <td> The action will not affect how frequently visited pages are loaded into Web browsers. </td>
+  </tr>
+  </table>
 
 ### AP TEST PREP 
 When: May 9th AP EXAM
