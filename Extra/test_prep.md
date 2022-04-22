@@ -10,58 +10,40 @@
   <th>Reasoning</th>
   </tr>
   <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td> 7 </td>
+  <td> A </td>
+  <td> B </td>
+  <td> Lossless compression algorithm and lossy compression algorithm do not relate to keeping data secure. </td>
   </tr>
  <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td> 22 </td>
+  <td> A </td>
+  <td> B </td>
+  <td> IPv6 allows for a greater number of IP addresses than IPv4 does so this means that more devices can be connected. </td>
   </tr>
  <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td> 24 </td>
+  <td> A </td>
+  <td> C </td>
+  <td> If the connection fails on one device then subsequent data will be sent via a different route. </td>
   </tr>
  <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td> 26 </td>
+  <td> C </td>
+  <td> A </td>
+  <td> I read the problem wrong and picked the question that would be the benefit of assembling the team. </td>
   </tr>
  <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td> 35 </td>
+  <td> D </td>
+  <td> C </td>
+  <td> Overflow errors occur when an arithmetic operation results in a value outside the range of numbers that can be represented by a fixed number of bits. So there weren't enough bits to display the value wanted. </td>
   </tr>
  <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  </tr>
- <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  </tr>
- <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  </tr>
- <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td> 46 </td>
+  <td> A </td>
+  <td> C </td>
+  <td> With an online encyclopedia allows people all around the world to share their opinions. So C would be the best choice. </td>
   </tr>
   </table>
   
