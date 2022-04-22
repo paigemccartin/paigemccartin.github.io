@@ -1,7 +1,7 @@
 {% include navigation.html %}
 ### Corrections 
-| Question | Wrong | Correct | Reasoning |
--------------------------------------------
+
+ Finals-Quiz2
 <table>
   <tr>
   <th>Question Number</th>
@@ -65,7 +65,7 @@
   </tr>
   </table>
   
-  
+ Finals-Quiz1
 <table>
   <tr>
   <th>Question Number</th>
