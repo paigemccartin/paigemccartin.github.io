@@ -1,6 +1,76 @@
 {% include navigation.html %}
 ### Corrections 
 
+Finals-Quiz2 (Score: 44/50)
+<table>
+  <tr>
+  <th>Question Number</th>
+  <th>Wrong</th>
+  <th>Correct</th>
+  <th>Reasoning</th>
+  </tr>
+  <tr>
+  <td> 2 </td>
+  <td> A </td>
+  <td> D </td>
+  <td> Not all problems can be validated by a human. </td>
+  </tr>
+ <tr>
+  <td> 3 </td>
+  <td> C </td>
+  <td> B </td>
+  <td> The first algorithm doesn't work because there is a chance that two people could pair together and have the earliest bday.  </td>
+  </tr>
+ <tr>
+  <td> 17 </td>
+  <td> B </td>
+  <td> C </td>
+  <td> It would return 20 because it picks which is less than the first number on the list. </td>
+  </tr>
+ <tr>
+  <td> 19 </td>
+  <td> D </td>
+  <td> A </td>
+  <td> We do not have access to the other assignment scores, only the lowest.  </td>
+  </tr>
+ <tr>
+  <td> 23 </td>
+  <td> C </td>
+  <td> D </td>
+  <td> I miss read the data, it is clear that the number of users increases after the mobile app.  </td>
+  </tr>
+ <tr>
+  <td> 29 </td>
+  <td> A </td>
+  <td> D </td>
+  <td> It lands on tails but that doesn’t mean they equal each other. </td>
+  </tr>
+ <tr>
+  <td> 30 </td>
+  <td> B </td>
+  <td> C </td>
+  <td> World Wide Web is just information while the internet is interconnected computer networks </td>
+  </tr>
+ <tr>
+  <td> 41 </td>
+  <td> B </td>
+  <td> D </td>
+  <td> Need to decrypt it with the same key used to encrypt it. </td>
+  </tr>
+ <tr>
+  <td> 45 </td>
+  <td> D </td>
+  <td> B </td>
+  <td> If the user has no internet connection then the files will not be accessible. </td>
+  </tr>
+ <tr>
+  <td> 47 </td>
+  <td> C </td>
+  <td> D </td>
+  <td> The code segment will set the bonus to score when the score is greater than 100. </td>
+  </tr>
+  </table>
+  
  Finals-Quiz2 (Score: 44/50)
 <table>
   <tr>
