@@ -6,6 +6,16 @@
 
 ### Plans for the week
 
+<table>
+  <tr>
+  <th>Week Number</th>
+  <th>Link to the Review Ticket</th>
+  </tr>
+  <tr>
+  <td>Week 6- Proctored MCQ 1 : Quiz1,Quiz2 Scores</td>
+  <td> <a href="https://github.com/paigemccartin/paigemccartin.github.io/issues/3">Review Ticket 5</a></td>
+  </tr>
+  </table>
 
 <table>
   <tr>
