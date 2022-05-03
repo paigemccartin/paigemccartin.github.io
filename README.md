@@ -12,6 +12,17 @@
   <th>Link to the Review Ticket</th>
   </tr>
   <tr>
+  <td>Proctored MCQ Week2 : Quiz3 and Create Task review</td>
+  <td> <a href="https://github.com/paigemccartin/paigemccartin.github.io/issues/4">Review Ticket 7</a></td>
+  </tr>
+  </table>
+
+<table>
+  <tr>
+  <th>Week Number</th>
+  <th>Link to the Review Ticket</th>
+  </tr>
+  <tr>
   <td>Week 6- Proctored MCQ 1 : Quiz1,Quiz2 Scores</td>
   <td> <a href="https://github.com/paigemccartin/paigemccartin.github.io/issues/3">Review Ticket 6</a></td>
   </tr>
