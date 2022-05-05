@@ -1,6 +1,41 @@
 {% include navigation.html %}
 ### Corrections 
 
+Finals-Quiz3 (Score: 17/25)
+<table>
+  <tr>
+  <th>Question Number</th>
+  <th>Wrong</th>
+  <th>Correct</th>
+  <th>Reasoning</th>
+  </tr>
+  <tr>
+  <td> 2 </td>
+  <td> A </td>
+  <td> D </td>
+  <td> Not all problems can be validated by a human. </td>
+  </tr>
+ <tr>
+  <td> 3 </td>
+  <td> C </td>
+  <td> B </td>
+  <td> The first algorithm doesn't work because there is a chance that two people could pair together and have the earliest bday.  </td>
+  </tr>
+ <tr>
+  <td> 17 </td>
+  <td> B </td>
+  <td> C </td>
+  <td> It would return 20 because it picks which is less than the first number on the list. </td>
+  </tr>
+ <tr>
+  <td> 19 </td>
+  <td> D </td>
+  <td> A </td>
+  <td> We do not have access to the other assignment scores, only the lowest.  </td>
+  </tr>
+ <tr>
+ 
+
 Finals-Quiz3 (Score: 40/50)
 <table>
   <tr>
