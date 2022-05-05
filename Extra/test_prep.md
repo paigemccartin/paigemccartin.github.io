@@ -34,7 +34,7 @@ Finals-Quiz3 (Score: 17/25)
   <td> We do not have access to the other assignment scores, only the lowest.  </td>
   </tr>
  <tr>
- 
+ <table>
 
 Finals-Quiz3 (Score: 40/50)
 <table>
