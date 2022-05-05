@@ -10,56 +10,56 @@ Finals-Quiz3 (Score: 17/25)
   <th>Reasoning</th>
   </tr>
   <tr>
+  <td> 1 </td>
+  <td> A </td>
+  <td> B </td>
+  <td> You need the code to match up to the circles center. </td>
+  </tr>
+ <tr>
   <td> 2 </td>
   <td> A </td>
-  <td> D </td>
-  <td> Not all problems can be validated by a human. </td>
+  <td> B </td>
+  <td> This was only for people under 18. So you can't have less then and 18.  </td>
   </tr>
  <tr>
-  <td> 3 </td>
+  <td> 6 </td>
+  <td> D </td>
+  <td> C </td>
+  <td> Algorithm 1 will always work but Algorithm two only works when the max value is -1 or greater.  </td>
+  </tr>
+ <tr>
+  <td> 7 </td>
+  <td> D </td>
+  <td> A </td>
+  <td>  I put every number of count, not the final result. </td>
+  </tr>
+ <tr>
+  <tr>
+  <td> 12 </td>
   <td> C </td>
   <td> B </td>
-  <td> The first algorithm doesn't work because there is a chance that two people could pair together and have the earliest bday.  </td>
+  <td> Repreating it 3 times will cause it to be one square above the grey one.  </td>
   </tr>
  <tr>
-  <td> 17 </td>
-  <td> B </td>
+  <tr>
+  <td> 21 </td>
+  <td> A </td>
   <td> C </td>
-  <td> It would return 20 because it picks which is less than the first number on the list. </td>
-  </tr>
- <tr>
-  <td> 19 </td>
-  <td> D </td>
-  <td> A </td>
-  <td> We do not have access to the other assignment scores, only the lowest.  </td>
+  <td> It will eventually become 0 because -2 will lead down to 0 not 1.  </td>
   </tr>
  <tr>
   <tr>
-  <td> 19 </td>
-  <td> D </td>
-  <td> A </td>
-  <td> We do not have access to the other assignment scores, only the lowest.  </td>
-  </tr>
- <tr>
-  <tr>
-  <td> 19 </td>
-  <td> D </td>
-  <td> A </td>
-  <td> We do not have access to the other assignment scores, only the lowest.  </td>
-  </tr>
- <tr>
-  <tr>
-  <td> 19 </td>
-  <td> D </td>
-  <td> A </td>
-  <td> We do not have access to the other assignment scores, only the lowest.  </td>
+  <td> 23 </td>
+  <td> C </td>
+  <td> B </td>
+  <td> I read it as two connections not as two computers. </td>
   </tr>
  <tr>
  <tr>
-  <td> 19 </td>
-  <td> D </td>
+  <td> 25 </td>
+  <td> B </td>
   <td> A </td>
-  <td> We do not have access to the other assignment scores, only the lowest.  </td>
+  <td> This code does not work as intended. It gives the wrong amouunt of points.  </td>
   </tr>
  <tr>
  <table>
